@@ -7,6 +7,7 @@ public class AAAAAAAAA {
  // 222222222222
 		//TEWTF
 		System.out.println("wwwwwwwww");
+//	AFSSSSSSSSS	
 	}
 
 }
